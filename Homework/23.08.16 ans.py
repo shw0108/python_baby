@@ -228,3 +228,4 @@ for i in range(1, 101):
     if isPrime(i) :
         print(i)
 
+print()
