@@ -46,7 +46,7 @@ for matrix in matrixs:
    for elem in matrix:
        temp_sum += elem
    result_array.append(temp_sum)
-print(sum, end= ' ')
+print(matrixs)
 print()
 
 # 5. 아래와 같은 2차원 리스트에서 각 행의 평균을 계산하여 리스트로 출력하세요.
